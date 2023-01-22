@@ -1,6 +1,6 @@
 # ayeshamahmd.github.io
 
-Hi, I'm Ayesha! (Upcoming programmer and Engineering Student) 
+### Hi, I'm Ayesha! (Upcoming programmer and Engineering Student) 
 
 I am an Engineering student with a passion for programming, coding, puzzles and design. I currently attend the University of Guelph majoring in Engineering Systems and Computing. My major encompases the principles of computer and electrical engineering and integrating it into mechanical principles. 
 
@@ -33,6 +33,7 @@ I choose to pursue Engineering post-secondary because of its endless application
          
 <details> 
   <summary><h3> Ayesha's Coding Journey</h></summary>
+  
   My coding journey had a bit of a rocky start. I tried to learn how to code on my own but quickly became overwheled on where to start. I researched on how to start learning the basics of code but everyone I came accross seemed to have their own opinions on what was the easiest, what was the most beneficial and what was most effeicient. Furthermore all guides and tutorials required some background knowlege of concepts. My lack of direction eventually lead me to Girls Who Code! Girls Who Code is a nonprofit orginization that works to increase the number of women in the computer science industry. I immeadiately signed up for their immersive summer program where I learned the basics of HTML/CSS and Java. The Girls Who Code course took time to explain the concepts and theories behind coding. It helped fill the gap most tutorials left. I further explored codign through freecodecamp.com and eventually taking coding classes at university. I am continuously working to improve my skill by creating projects and exploring new languages. 
   <br/>
   
