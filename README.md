@@ -30,11 +30,38 @@ I choose to pursue Engineering post-secondary because of its endless application
 <br/>
          
          
-         
-<details> 
-  <summary><h3> Ayesha's Coding Journey</h></summary>
+<details>         
+<summary><h3>Ayesha's Coding Journey<h/></summary>
+   My coding journey had a bit of a rocky start. I tried to learn how to code on my own but quickly became overwheled on where to start. I researched on how to start learning the basics of code but everyone I came accross seemed to have their own opinions on what was the easiest, what was the most beneficial and what was most effeicient. Furthermore all guides and tutorials required some background knowlege of concepts. My lack of direction eventually lead me to Girls Who Code! Girls Who Code is a nonprofit orginization that works to increase the number of women in the computer science industry. I immeadiately signed up for their immersive summer program where I learned the basics of HTML/CSS and Java. The Girls Who Code course took time to explain the concepts and theories behind coding. It helped fill the gap most tutorials left. I further explored codign through freecodecamp.com and eventually taking coding classes at university. I am continuously working to improve my skill by creating projects and exploring new languages.
   
-  My coding journey had a bit of a rocky start. I tried to learn how to code on my own but quickly became overwheled on where to start. I researched on how to start learning the basics of code but everyone I came accross seemed to have their own opinions on what was the easiest, what was the most beneficial and what was most effeicient. Furthermore all guides and tutorials required some background knowlege of concepts. My lack of direction eventually lead me to Girls Who Code! Girls Who Code is a nonprofit orginization that works to increase the number of women in the computer science industry. I immeadiately signed up for their immersive summer program where I learned the basics of HTML/CSS and Java. The Girls Who Code course took time to explain the concepts and theories behind coding. It helped fill the gap most tutorials left. I further explored codign through freecodecamp.com and eventually taking coding classes at university. I am continuously working to improve my skill by creating projects and exploring new languages. 
-  <br/>
   
+ 
+<details>  
+<summary><h3> Projects </h></summary>
+
+###  'Password Manager' 
+    Language: Python 
+    Description: The “Password Manager” project was based around creating a code system using the programming language Python to save and access passwords. As the information being entered and accessed was sensitive information, a Fernet encryption. The information entered into a text file and can only be accessed in the decrypted form using a master password. 
+    Link: 
+    
+###  'GPS'
+    Language: C 
+    Description: The “GPS” project consisted of designing a system of code where a  text file is uploaded with the name, latitude, longitude and altitude of the main users ‘position’ along with the ‘position’ of other users and the system would output the distances between all users and the user closest and furthest to the main user. This project was done in collaboration with a peer. GitHub was used to collaboratively write and edit the code.
+    Link: 
+    
+###  'Teddy Bear Wheel Chain'
+    Language: C 
+    Description: The “Teddy Bear Wheel Chair” project consisted of design and creating an autonomous vehicle for a teddy bear. The main components included designing and building a circuit with an Arduino, writing code for vehicle based on testing stimulation and building a chassis within safety and accessible guidelines.
+    Link: 
+    
+### 'Personal Website' - Girls Who Code
+    Language: HTML/CSS
+    Description:
+    Link:https://Personal-WebsiteGWC.ayeshamahmood3.repl.co
+     
+### 'Personality Quiz' - Girls Who Code
+    Language: HTML/CSS + JavaScript
+    Description:
+    Link: https://Personality-Quiz-Code.ayeshamahmood3.repl.co
+   
   
