@@ -40,9 +40,9 @@ I choose to pursue Engineering post-secondary because of its endless application
 <summary><h3> Projects </h></summary>
 
 ###  'Password Manager' 
-    Language: Python 
-    Description: The “Password Manager” project was based around creating a code system using the programming language Python to save and access passwords. As the information being entered and accessed was sensitive information, a Fernet encryption. The information entered into a text file and can only be accessed in the decrypted form using a master password. 
-    Link: 
+####    Language: Python 
+####    Description: The “Password Manager” project was based around creating a code system using the programming language Python to save and access passwords. As the information being entered and accessed was sensitive information, a Fernet encryption. The information entered into a text file and can only be accessed in the decrypted form using a master password. 
+#### Link: 
     
 ###  'GPS'
     Language: C 
